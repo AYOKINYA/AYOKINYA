@@ -2,7 +2,7 @@
 
 - I'm a cadet @42SEOUL since Feb 2020.
 - I've learned C, C++, R, Python, MySQL, Docker, K8s, Ruby On Rails and Javascript.
-- I’m currently learning algorithms and web 
+- I’m currently learning Java Spring and React.
 
 - e-mail : ayokinya@gmail.com
 
